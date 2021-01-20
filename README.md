@@ -29,4 +29,4 @@ By observing the chart for cardholder #25, we can notice anomalies almost every 
 5. In June, there is a transactions with amount of $1813, $1162 and $749 
 
 These are all indicative of fraudulent transactions given the high amount. In all there are 9 outliers in the first sixe months of 2018.
-![Transactions for cardholder #25](Transactions_Cardholder18.JPG)
+![Transactions for cardholder #25](Transactions_Cardholder25.JPG)
