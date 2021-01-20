@@ -16,7 +16,17 @@ Based on the analysis, the results are as follows,
   ![Top 5 merchants prone to hacking](top5merchants_hacked.JPG)
 
 #### Part 2:
-
+BY observing the chars for the transactions for card holder #2 and cardholder #18, we notice some transactions with high amounts  for cardholder #18( in the 1000s). While the transactions for a day for cardholder#2 does not exceeed $35 for a single day, we see transactions as high as $1850 (approx) for cardholder #18. THere are 7 days in the year where the transactions for cardholder #18 are close to or exceed $1000. We can confidently conclude that those are not legitimate spending by the cardholder #18.
 ![Transactions for cardholder #2](Transactions_Cardholder2.JPG)
 
 ![Transactions for cardholder #18](Transactions_Cardholder18.JPG)
+
+By observing the chart for cardholder #25, we can notice anomalies almost every month.
+1. In January, there is a transaction with amount of $1177
+2. In March, there is a transaction with amount of $1334. 
+3. In April, there is a transaction with amount of $1034. In total, there are 3 outliers in April.
+4. In May, there is a transaction with amount of $1046
+5. In June, there is a transactions with amount of $1813, $1162 and $749 
+
+These are all indicative of fraudulent transactions given the high amount. In all there are 9 outliers in the first sixe months of 2018.
+![Transactions for cardholder #25](Transactions_Cardholder18.JPG)
