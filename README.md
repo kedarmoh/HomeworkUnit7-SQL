@@ -14,3 +14,9 @@ Based on the analysis, the results are as follows,
  3. The total # of transactions made between 700-900 am is 419. The hackers choose this time when the card holders are asleep and do not check their statement or alerts until later in the morning and during the day and hence delay the reporting/detection of these charges by the card holders. This gives the hackers enough time to hide any trail to avoid detection.
   THe top 5 merchants prone to hacking are
   ![Top 5 merchants prone to hacking](top5merchants_hacked.JPG)
+
+#### Part 2:
+
+![Transactions for cardholder #2](Transactions_Cardholder2.JPG)
+
+![Transactions for cardholder #18](Transactions_Cardholder18.JPG)
